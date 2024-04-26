@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Ian\\projects\\perceptron",
+            "binaryPath": "c:\\Users\\Ian\\projects\\perceptron\\perceptron",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "main.h": "c"
+    }
+}
