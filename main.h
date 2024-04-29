@@ -10,4 +10,5 @@ int input3[2] = {1,0};
 int input4[2] = {1,1};
 
 int main();
-void train(struct perceptron *p);
+void train(struct perceptron *p, int *input, int ans);
+int activate(struct perceptron p, int input);
